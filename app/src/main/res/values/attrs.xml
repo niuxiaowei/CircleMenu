@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ARCMenuItem">
+        <attr name="menuItemColor" format="color"/>
+        <attr name="menuItemContent" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="CircleMenu">
+        <attr name="circleMenusRadius" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="CircleMenuItem">
+        <attr name="radius" format="dimension"/>
+    </declare-styleable>
+</resources>
